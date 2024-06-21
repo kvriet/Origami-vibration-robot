@@ -26,7 +26,8 @@ To make the robots, you need:
 2. Vibration motor
 3. Coin cell (2032)
 4. Tape
-5. Optional: decoration
+5. Googly eyes
+6. Optional: decoration
 
 ## How to make the robots <a name="assembly"></a>
 
