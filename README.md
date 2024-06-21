@@ -16,6 +16,7 @@ This project allows children to build their own origami vibration robot. This wa
 Once the robots have been folded, it's a nice idea to have children race their robots again each other on a flat track (maybe inclined a little).
 
 Children can also design their own robot:
+
 ![Robot walking](https://github.com/kvriet/Origami-vibration-robot/blob/main/Photos/creative%20robot%20walking.gif?raw=true)
 
 ## What do I need? <a name="materials"></a>
