@@ -33,6 +33,9 @@ To make the robots, you need:
 
 Follow the folding manual: https://github.com/kvriet/Origami-vibration-robot/blob/main/Folding%20manuals/Fold%20a%20vibration%20robot%20v1.pdf
 Then tape the leads of the vibration motor to the two sides of the coin cell. Tape the vibration motor + coin cell onto the origami robot (if you want you can use double-sided tape here. Tape for fixing photographs works well here).
+
+The robots in the pictures have custom PCBs designed by Dico Kruining and me, but tape also works. Many thanks to Dico for helping me design the PCBs and soldering them!
+
 Your robot is now ready, but you can also decide to decorate it. Here's an example of a decorated robot:
 
 ![Robot decorated](https://github.com/kvriet/Origami-vibration-robot/blob/main/Photos/example%20robot%20small.jpg?raw=true)
