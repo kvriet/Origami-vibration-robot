@@ -22,7 +22,7 @@ Children can also design their own robot:
 ## What do I need? <a name="materials"></a>
 To make the robots, you need:
 
-1. Origami paper (15x15cm(
+1. Origami paper (15x15cm)
 2. Vibration motor
 3. Coin cell (2032)
 4. Tape
