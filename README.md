@@ -1,6 +1,6 @@
 # Origami-vibration-robot
- An origami vibration robot that walks.
- CC BY-NC
+ Workshop for making origami vibration robots that walk.
+ CC BY-NC Katrien van Riet
 
 ![Robot](https://github.com/kvriet/Origami-vibration-robot/blob/main/Photos/Origami%20Vibration%20Robots%20small.png?raw=true)
 
